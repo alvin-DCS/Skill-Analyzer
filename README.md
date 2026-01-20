@@ -65,3 +65,5 @@ This project was created to help job seekers identify skill gaps for specific ro
 
 ## 👩‍💻 Author
 Alvin Thomas
+
+![Dashboard](skill.png)
