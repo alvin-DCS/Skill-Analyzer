@@ -1,9 +1,5 @@
 # Skill Gap Analyzer
 
-## 🌐 Live Demo
-👉 https://skill-gap-analyzer-fn5s7xpqzwtavvozmd8mrf.streamlit.app/
-
-
 ## 📌 Project Description
 The Skill Gap Analyzer is a Python-based web application that helps users compare their current skills with the skills required for a selected job role. It calculates a skill match percentage, identifies missing skills, and provides a simple learning roadmap.
 
@@ -68,4 +64,4 @@ This project was created to help job seekers identify skill gaps for specific ro
 ---
 
 ## 👩‍💻 Author
-Sona John
+Alvin Thomas
